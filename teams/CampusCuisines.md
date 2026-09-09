@@ -1,2 +1,2 @@
 ## CampusCuisines
-- Nikolas Metten [nmetten](https://github.com/nmetten)
+- Nikolas Metten, [nmetten](https://github.com/nmetten)
